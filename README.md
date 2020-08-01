@@ -3,11 +3,7 @@ All Functioning with model
 
 # Image Classifier
 
-Python Jupyter Notebook with **Convolutional Neural Network** image classifier implemented in **Keras** 🖼️. It's **[Google Colab](https://colab.research.google.com/)** ready.
-
-Check out corresponding Medium article:
-
-[Image Classifier - Cats🐱 vs Dogs🐶 with Convolutional Neural Networks (CNNs) and Google Colab’s Free GPU](https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8)
+Python Jupyter Notebook with **Convolutional Neural Network** image classifier implemented in **Keras** 🖼️. 
 
 ## Usage
 
@@ -291,15 +287,12 @@ For non-binary classifications:
 
 **Greg (Grzegorz) Surma**
 
-[**PORTFOLIO**](https://gsurma.github.io)
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
 
-[**GITHUB**](https://github.com/gsurma)
+[**GITHUB**](https://github.com/piyushpathak03)
 
-[**BLOG**](https://medium.com/@gsurma)
+[**BLOG**](https://medium.com/@piyushpathak03)
 
-<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
-  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
-</a>
 
 # 📫 Follw me: 
 
