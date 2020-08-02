@@ -283,9 +283,9 @@ For non-binary classifications:
 
 <img src="models/model_5/model_5_validation.png" width="500">
 
-## Author
+## About me
 
-**Greg (Grzegorz) Surma**
+**Piyush Pathak**
 
 [**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
 
